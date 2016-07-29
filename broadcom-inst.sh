@@ -40,3 +40,8 @@ abuild -r
 cd ~/packages/non-free/x86_64
 
 sudo apk add b43-firmware*
+
+
+#Try sudo apk add b43-fwcutter
+#https://pkgs.alpinelinux.org/package/v3.3/main/x86/b43-fwcutter
+#http://linuxwireless.org/en/users/Drivers/b43/
